@@ -11,4 +11,5 @@ A list of all projects / links that I have contributed to and would like to shar
 | The-Wheel       | [Link](https://github.com/TylrPopcorn/The-Wheel) | Spin a wheel    |   React.js, JavaScript, HTML, CSS, form validation
 | Random Number Generator     | [Link](https://github.com/TylrPopcorn/Random-Number-Generator) | Generate a random number    |   React.js, JavaScript, HTML, CSS
 | Client Side Auth     | [Link](https://github.com/TylrPopcorn/Client-Side-Auth) | An example of client-side authentication    |   React.js, JavaScript, HTML, CSS, Redux, Actions, Reducers
+| Text Rain Animation    | [Link](https://github.com/TylrPopcorn/Text-Rain-Animation) | Cloud raining text   |   JavaScript, HTML, CSS
 
