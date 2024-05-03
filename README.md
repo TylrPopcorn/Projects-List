@@ -13,4 +13,5 @@ A list of all projects / links that I have contributed to and would like to shar
 | Client Side Auth     | [Link](https://github.com/TylrPopcorn/Client-Side-Auth) | An example of client-side authentication    |   React.js, JavaScript, HTML, CSS, Redux, Actions, Reducers
 | Text Rain Animation    | [Link](https://github.com/TylrPopcorn/Text-Rain-Animation) | Cloud raining text   |   JavaScript, HTML, CSS
 | Doggo Form     | [Link](https://github.com/TylrPopcorn/Doggo-Form) | View images of dogs by their breed   |   React.js, JavaScript, HTML, CSS
+| Simple Speaker     | [Link](https://github.com/TylrPopcorn/Simple-Speaker) | A ROBLOX creation  |  Lua
 
