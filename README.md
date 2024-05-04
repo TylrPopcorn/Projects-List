@@ -1,5 +1,5 @@
 # Projects-List
-A list of all projects / links that I have contributed to and would like to share
+A list of all projects / links that I have created/contributed to and would like to share
 
 
 | Project Name                   | GitHub Repository                                           | Description                 | Technologies                 |
