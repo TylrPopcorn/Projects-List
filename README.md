@@ -1,7 +1,7 @@
 # Projects-List
 A list of all projects / links that I have created / contributed to and would like to share
 
-> **Tip:** Looking for a specific technology? Use **`Alt + F`** to search for a specific technology.
+> **Tip:** Looking for a specific technology? Use **`Ctrl + F`** to search for a specific technology.
 
 
 | Project Name                   | GitHub Repository                                           | Description                 | Technologies                 |
