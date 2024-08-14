@@ -26,3 +26,4 @@ A list of all projects / links that I have created / contributed to and would li
 | Hero Page 1 | [Link](https://github.com/TylrPopcorn/Hero-Page-1) | Creating hero pages With BootStrap |  Figma, BootStrap, HTML, CSS
 | Pokemon Display Grid | [Link](https://github.com/TylrPopcorn/Pokemon-Display-Grid) | A simple application showcasing Pokémon using DOM manipulation |  JavaScript, HTML
 | PingPong-ScoreKeepr | [Link](https://github.com/TylrPopcorn/PingPong-ScoreKeepr) | A simple application that will keep track of your ping pong score |  Bulma, JavaScript, HTML
+| Bulma Basics | [Link](https://github.com/TylrPopcorn/Bulma-Basics)| A basic repo providing clear examples on how to use Bulma CSS framework |  Bulma, JavaScript, HTML
