@@ -29,3 +29,4 @@ A list of all projects / links that I have created / contributed to and would li
 | Bulma Basics | [Link](https://github.com/TylrPopcorn/Bulma-Basics)| A basic repo providing clear examples on how to use Bulma CSS framework |  Bulma, JavaScript, HTML
 | What Even is Bulma? | [Link](https://github.com/TylrPopcorn/What-Even-Is-Bulma)| Bulma CSS framework explained |  Bulma, HTML
 | Bulma Blog | [Link](https://github.com/TylrPopcorn/Bulma-Blog)| A simple blog created with Bulma CSS framework |  Bulma, HTML
+| Tesla Roadster | [Link](https://github.com/TylrPopcorn/Tesla-Roadster)| A simple hero page created with Bulma CSS framework |  Bulma, HTML
