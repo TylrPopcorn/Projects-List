@@ -30,4 +30,4 @@ A list of all projects / links that I have created / contributed to and would li
 | 22 | What Even is Bulma? | [Link](https://github.com/TylrPopcorn/What-Even-Is-Bulma)| Bulma CSS framework explained |  Bulma, HTML
 | 23 | Bulma Blog | [Link](https://github.com/TylrPopcorn/Bulma-Blog)| A simple blog created with Bulma CSS framework |  Bulma, HTML
 | 24 | Tesla Roadster | [Link](https://github.com/TylrPopcorn/Tesla-Roadster)| A simple hero page created with Bulma CSS framework |  Bulma, HTML
-| 25 | Television Show Search | [Link](https://github.com/TylrPopcorn/Television-Show-Search)| A simple project showcasing how to manipulate an API in Svelte.js |  Svlete, HTML, CSS, JavaScript
+| 25 | Television Show Search | [Link](https://github.com/TylrPopcorn/Television-Show-Search)| A simple project showcasing how to manipulate an API in Svelte.js |  Svelte.js, HTML, CSS, JavaScript
