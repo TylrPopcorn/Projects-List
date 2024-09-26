@@ -3,6 +3,8 @@ A list of all projects / links that I have created / contributed to and would li
 
 > **Tip:** Looking for a specific technology? Use **`Ctrl + F`** to search for a specific technology.
 
+``NOTE:``  The projects provided to you are not all meant to be complex but to represent and show the knowledge and understanding of how to use various technologies.
+
 
 | # | Project Name                   | GitHub Repository                                           | Description                 | Technologies                 |
 |---|------------------------------------|-------------------------------------------------------------|-----------------------------|------------------------------|
