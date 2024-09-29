@@ -35,3 +35,4 @@ A list of all projects / links that I have created / contributed to and would li
 | 25 | Television Show Search | [Link](https://github.com/TylrPopcorn/Television-Show-Search)| A simple project showcasing how to manipulate an API in Svelte.js |  Svelte.js, HTML, CSS, JavaScript
 | 26 | The Book | [Link](https://github.com/TylrPopcorn/The-Book)| A project showcasing how to use BootStrap |  BootStrap, HTML
 | 27 | Svelte Basics | [Link](https://github.com/TylrPopcorn/Svelte-Basics)| The basics of Svelte.js and how to use |  Svelte.js, JavaScript, HTML, CSS
+| 28 | The-Polls | [Link](https://github.com/TylrPopcorn/The-Polls)| Create & vote in different kinds of polls with Svelte.js |  Svelte.js, JavaScript, HTML, CSS
