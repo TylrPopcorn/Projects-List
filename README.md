@@ -37,3 +37,4 @@ A list of all projects / links that I have created / contributed to and would li
 | 27 | Svelte Basics | [Link](https://github.com/TylrPopcorn/Svelte-Basics)| The basics of Svelte.js and how to use |  Svelte.js, JavaScript, HTML, CSS
 | 28 | The Polls | [Link](https://github.com/TylrPopcorn/The-Polls)| Create & vote in different kinds of polls with Svelte.js |  Svelte.js, JavaScript, HTML, CSS
 | 29 | Color Flipper | [Link](https://github.com/TylrPopcorn/Color-Flipper) | Flip the color of an element using svelte.js |  Svelte.js, JavaScript, HTML, CSS
+| 30 | Stop Watch | [Link](https://github.com/TylrPopcorn/Stop-Watch) | Use a virtual stop watch with Svelte.js |  Svelte.js, JavaScript, HTML, Bulma, CSS
