@@ -44,4 +44,5 @@ A list of all projects / links that I have created / contributed to and would li
 | 34 | Hero Page 2 | [Link](https://github.com/TylrPopcorn/Hero-Page-2) | Creating simple hero pages with BootStrap HTML |  Figma, BootStrap, HTML, CSS
 | 35 | Basic EJS App | [Link](https://github.com/TylrPopcorn/Basic-EJS-App) | A simple app that shows how to use EJS (Embedded JavaScript) |  EJS, Node.js, JavaScript, CSS
 | 36 | Market Street Barbers | [Link](https://github.com/TylrPopcorn/Market-Street-Barbers) | Book yourself a haircut online with Market Street Barbers. |  Svelte.js, Figma, BootStrap, JavaScript, HTML, CSS
+| 37 | Color Box | [Link](https://github.com/TylrPopcorn/Color-Box) | Change the color of different boxes using Svelte.js |  Svelte.js, JavaScript, HTML, CSS
 
