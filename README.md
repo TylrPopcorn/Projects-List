@@ -47,4 +47,5 @@ A list of all projects / links that I have created / contributed to and would li
 | 37 | Color Box | [Link](https://github.com/TylrPopcorn/Color-Box) | Change the color of different boxes using Svelte.js |  Svelte.js, JavaScript, HTML, CSS
 | 38 | Berger & Associates | [Link](https://github.com/TylrPopcorn/Berger-and-Associates) | Website redesign using Figma & EJS | Figma, EJS, Bulma, Node.js, Express.js, JavaScript, HTML, SCSS, CSS
 | 39 | Rock, Paper, Scissors | [Link](https://github.com/TylrPopcorn/Rock-Paper-Scissors) | A rock, paper, scissors terminal game created with python. | Python
+| 40 | Boze McKibbon | [Link](https://github.com/TylrPopcorn/Boze-McKibbon) | Website redesign using Figma & React.js | Figma, React.js, Bootstrap, JavaScript, HTML, SCSS, CSS
 
